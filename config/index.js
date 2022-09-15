@@ -82,7 +82,6 @@ export const config = {
     },
 
     
-    {{date.DATA}}  
 城市：{{city.DATA}}  
 天气：{{weather.DATA}}  
 最低气温: {{min_temperature.DATA}}  
